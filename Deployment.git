@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<center><h1>Rohit Nittala</h1></center>
+<h3>Career Object</h3>
+<p>A self-motivated and hardworking individual looking for a responsible role in reputated 
+organization, where I can utilize my technical and managing skills to enhance my knowledge by 
+exploring new things.</p>
+
+<h3>Skills</h3>
+<pre>
+HTML & CSS
+JAVASCRIPT
+React.JS
+</pre>
+
+<h3>Hobbies</h3>
+<pre>
+Travelling
+Exercises
+Reading Books
+</pre>
+
+<h3>Declartaion</h3>
+<p>The information stated above is true and best to my knowledge.
+</p>
+
+<h3>Date</h3>                                              
+<p>10/02/2024</p>
+
+
+</body>
+</html>
